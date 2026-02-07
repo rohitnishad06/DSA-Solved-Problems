@@ -13,3 +13,5 @@
 | 9   | [Longest Consecutive Sequence in an Array](https://leetcode.com/problems/longest-consecutive-sequence/)     |
 | 10   | [Set Matrix Zeros](https://leetcode.com/problems/set-matrix-zeroes/)     |
 | 11   | [Rotate Image/Matrix](https://leetcode.com/problems/rotate-image/description/)     |
+| 12   | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)     |
+| 13   | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)     |
